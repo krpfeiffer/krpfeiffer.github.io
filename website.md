@@ -1,4 +1,4 @@
-![project logo](./assets/icon-128x128.png)
+![project logo](./assets/website.png)
 
 # GP-pfeifferNet
 Theme for the pfeifferNet website.
@@ -28,6 +28,3 @@ Dark mode is essentially a reverse of the light mode background and foreground c
 * [pSite plugin](https://github.com/krpfeiffer/pSite)
 * [pGallery plugin](https://github.com/krpfeiffer/pGallery)
 * [site settings](https://github.com/krpfeiffer/settingsWebsite)
-
-## Changelog
-[project changelog]( ./CHANGELOG.md)
