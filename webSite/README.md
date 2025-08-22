@@ -1,4 +1,4 @@
-![project logo](./assets/website.png)
+![project logo](./assets/icon-128x128.png)
 
 # GP-pfeifferNet
 Theme for the pfeifferNet website.
