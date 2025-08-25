@@ -1,41 +1,25 @@
 ![project logo](./assets/icon-128x128.png)
 
-# setupDev
-
-Wordpress plugin to convert a WordsPress site to a development site.
+# pfic
+WordPress plugin to provide functionality for the pfeiffer cookbook website.
 
 ## Description
+This plugin supports the GP-Cookbook theme without being dependent upon it.
 
-This works for either a clean install or a copied site.
-
-If this is a copied site, it updates settings and moves content to relevant user.
-It replaces users and settings from that site to appropriate development requirements.
-
-On a clean site it only sets the development site parameters.
+Integrates with WP Recipe Maker to deliver recipe-related functionality.
 
 ### Features
-* Can only be run once for a site.
-* If needed, it creates a devmaster user as administrator.
-* Moves any webmaster content to devmaster.
-* Removes any subscribers, keeping only those identified as allowed.
-* Updates settings in wp_options.
-* Imports pNet dev settings.
-* All setup is done by the plugin activation function.
-* Plugin deactivates itself on completion.
-
-## Instructions
-### Clean install
-* Update config.php to use any development site settings.
-* Activate the plugin.
-
-### Copied site install
-* Update config.php to use any development site settings.
-* Login as 'webmaster' using source site credentials.
-* Activate the plugin.
-* Set 'devmaster' password.
-* Logout and log back in as 'devmaster' using newly created credentials.
-* Delete 'webmaster' user.
+* Chapter taxonomy to organise recipes for printed cookbook.
+* Ingredient custom post type.
+* Cookbook printing:
+	- Print all recipes in chapter sequence.
+	- Print a table of contents.
+	- Print post content, including recipe, for a chapter.
+	- Print post content, including recipe, within a date range.
+* WP Recipe Maker taxonomy enablement and extension.
+* Custom RSS feeds for automatic social media posting using IFTTT.
 
 ## Dependencies
-None.
-
+* WP Recipe Maker plugin
+* WP Recipe Maker Premium plugin (Pro Bundle)
+* [pNet plugin](https://github.com/krpfeiffer/pnet)
