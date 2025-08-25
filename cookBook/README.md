@@ -29,5 +29,3 @@ Dark mode is essentially a reverse of the light mode background and foreground c
 * [pfic plugin](https://github.com/krpfeiffer/pfic)
 * [site settings](https://github.com/krpfeiffer/settingsCookbook)
 
-## Changelog
-[project changelog]( ./CHANGELOG.md)
