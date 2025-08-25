@@ -23,6 +23,3 @@ Integrates with WP Recipe Maker to deliver recipe-related functionality.
 * WP Recipe Maker plugin
 * WP Recipe Maker Premium plugin (Pro Bundle)
 * [pNet plugin](https://github.com/krpfeiffer/pnet)
-
-## Changelog
-[project changelog]( ./CHANGELOG.md)
