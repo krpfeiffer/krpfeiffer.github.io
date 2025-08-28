@@ -23,3 +23,5 @@ The theme uses Google's Material Design (V2) as the UI paradigm.
 * GenerateBlocks Pro plugin
 
 
+## Changelog
+[project changelog]( ./CHANGELOG.md)
