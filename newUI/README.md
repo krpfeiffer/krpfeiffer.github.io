@@ -1,4 +1,4 @@
-![project logo](./assets/icon.svg)
+![the project logo](./assets/icon-128x128.png)
 
 # New UI
 The new theme for the pfeifferNet websites.
