@@ -27,4 +27,3 @@ Dark mode is essentially a reverse of the light mode background and foreground c
 * [F4 Media Taxonomies](https://github.com/faktorvier/f4-media-taxonomies)
 * [pSite plugin](https://github.com/krpfeiffer/pSite)
 * [pGallery plugin](https://github.com/krpfeiffer/pGallery)
-* [site settings](https://github.com/krpfeiffer/settingsWebsite)
