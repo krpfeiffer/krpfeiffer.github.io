@@ -16,11 +16,12 @@ This plugin supports the GP-pfeifferNet theme without being dependent upon it.
 ## Upgrades
 Some upgrades may require changes to the WordPress database.
 There is a file in the root folder which will handle the required changes.
-Run this from the command line, using the command:
+You are advised to create a backup before running the script.
+The script will abort if used on a production site.
+
+Run the script from the command line, using the command:
 
 `wp eval-file upgrade-db.php`
-
-This will abort if used on a production site.
 
 ## Dependencies
 * [pNet plugin](https://github.com/krpfeiffer/pnet)
