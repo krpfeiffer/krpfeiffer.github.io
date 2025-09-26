@@ -26,6 +26,7 @@ On a clean site it only sets the development site parameters.
 ## Instructions
 ### Clean install
 * Update config.php to use any development site settings.
+* Login as site administrator.
 * Activate the plugin.
 
 ### Copied site install
@@ -35,6 +36,8 @@ On a clean site it only sets the development site parameters.
 * Set 'devmaster' password.
 * Logout and log back in as 'devmaster' using newly created credentials.
 * Delete 'webmaster' user.
+
+Note that all copied users will have the same credentials as they use on the copied site.
 
 ## Dependencies
 None.
