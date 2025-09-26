@@ -14,7 +14,7 @@ This plugin supports the GP-pfeifferNet theme without being dependent upon it.
 	- Maintain preferred image.
 
 ## Upgrades
-Some upgrades may require changes to the WordPress database.
+Some upgrades may require changes to the contents of the database.
 There is a file in the root folder which will handle the required changes.
 You are advised to create a backup before running the script.
 The script will abort if used on a production site.
