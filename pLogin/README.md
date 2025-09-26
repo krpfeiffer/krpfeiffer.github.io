@@ -1,6 +1,6 @@
 ![project logo](./assets/icon-128x128.png)
 
-# pLogin plugin
+# pLogin
 WordPress plugin to provide login functions for all the pfeifferNet websites.
 
 ## Description
@@ -22,5 +22,3 @@ User interface uses Google Material Design paradigm.
 
 ## Dependencies
 * [pNet plugin](https://github.com/krpfeiffer/pnet)
-
-
