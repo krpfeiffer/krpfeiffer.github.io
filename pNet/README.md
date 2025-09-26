@@ -29,9 +29,9 @@ Provides common functionality used by all the pfeifferNet websites.
 * Use system cron.
 * Date and time helper functions.
 * HTTP request helper functions.
+* Lightbox functionality. This is provided by [SimpleLightbox](https://github.com/andreknieriem/simplelightbox)
 
 ## Dependencies
 * GeneratePress premium plugin
 * GenerateBlocks plugin
 * GenerateBlocks Pro plugin
-
