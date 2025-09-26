@@ -19,6 +19,16 @@ Integrates with WP Recipe Maker to deliver recipe-related functionality.
 * WP Recipe Maker taxonomy enablement and extension.
 * Custom RSS feeds for automatic social media posting using IFTTT.
 
+## Upgrades
+Some upgrades may require changes to the contents of the database.
+There is a file in the root folder which will handle the required changes.
+You are advised to create a backup before running the script.
+The script will abort if used on a production site.
+
+Run the script from the command line, using the command:
+
+`wp eval-file upgrade-db.php`
+
 ## Dependencies
 * WP Recipe Maker plugin
 * WP Recipe Maker Premium plugin (Pro Bundle)
