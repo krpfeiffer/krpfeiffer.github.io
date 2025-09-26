@@ -14,7 +14,7 @@ The surface colors are shades of grey, tinted with this colour.
 Dark mode is essentially a reverse of the light mode background and foreground color palette.
 
 ### Features
-* Integration of WP Recipe Maker.
+* Integrates WP Recipe Maker.
 * Post and taxonomy term lists are presented as a grid of cards.
 * Provides subscriber-only extended printing functionality.
 * Provides a dark mode, depending on user browser settings.
