@@ -12,9 +12,7 @@ Clicking an image opens a lightbox.
 * Image gallery shortcode using the album taxonomy to group images.
 * Displays gallery images in a lightbox.
 * Logged in users can use right-click to download a full-size image file.
-* Right click disabled for visitors.
+* Right-click disabled for visitors.
 
 ## Dependencies
 * [pNet plugin](https://github.com/krpfeiffer/pnet)
-* [SimpleLightbox](https://github.com/andreknieriem/simplelightbox)
-
