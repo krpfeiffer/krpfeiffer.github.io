@@ -24,6 +24,6 @@ This is  specified as either 'Theme URI' or 'Plugin URI' in the relevant theme s
 
 [common shared plugin](./pNet/README.md)
 
-[family site plugin](./pSiten/README.md)
+[family site plugin](./pSite/README.md)
 
 [setup development site plugin](./setupDev/README.md)
