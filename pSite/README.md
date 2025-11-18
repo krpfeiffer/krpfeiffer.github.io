@@ -15,11 +15,11 @@ This plugin supports the GP-pfeifferNet theme without being dependent upon it.
 
 ## Upgrades
 Some upgrades may require changes to the contents of the database.
-There is a file in the root folder which will handle the required changes.
+There is a file in the plugin root folder which will handle the required changes.
 You are advised to create a backup before running the script.
 The script will abort if used on a production site.
 
-Run the script from the command line, using the command:
+Go to the plugin root folder and run the script from the command line, using the command:
 
 `wp eval-file upgrade-db.php`
 
