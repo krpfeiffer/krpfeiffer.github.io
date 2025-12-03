@@ -37,7 +37,7 @@ On a clean site it only sets the development site parameters.
 * Logout and log back in as 'devmaster' using newly created credentials.
 * Delete 'webmaster' user.
 
-Note that all copied users will have the same credentials as they use on the copied site.
+Note that all copied users will have the same credentials as they use on the source site.
 
 ## Dependencies
 None.
