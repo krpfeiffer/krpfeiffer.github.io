@@ -1,7 +1,7 @@
 ![project logo](./assets/icon-128x128.png)
 
 # pGallery
-WordPress plugin to provide gallery and lightbox functionality for the pfeifferNet websites.
+WordPress plugin to provide gallery functionality for the pfeifferNet websites.
 
 ## Description
 This plugin provides an image gallery using flexible columns to provide a masonry appearance.
@@ -15,4 +15,5 @@ Clicking an image opens a lightbox.
 * Right-click disabled for visitors.
 
 ## Dependencies
+* [F4 Media Taxonomies](https://github.com/faktorvier/f4-media-taxonomies)
 * [pNet plugin](https://github.com/krpfeiffer/pnet)
