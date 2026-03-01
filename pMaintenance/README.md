@@ -8,8 +8,8 @@ WordPress plugin to inform visitors that site is in maintenance mode.
 Prohibits site fontend display and shows an "under maintenance page", including the date that maintenance started.
 
 ### Features
-* Allows administrator-level login to backend.
-* Sends a 503 temporarily unavailable header.
+* Allow administrator-level login to backend.
+* Send a 503 "temporarily unavailable" header.
 
 ## Usage
 * Activate plugin to enable maintenance mode.
