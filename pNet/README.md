@@ -19,12 +19,12 @@ Provides common functionality used by all the pfeifferNet websites.
 	- Users with editor or author privileges are called "members".
 	- Users with subscriber privileges are called "subscribers".
 	- There is no special handling of the contributor class.
-	- Frontend user account management.
+	- Frontend user profile management.
 * Subscriber registration - if site allows such registration.
-* Tracks page and post views.
+* Track page and post views.
 * Lightweight share to social platforms (uses URLs).
 * Lightweight follow on social platforms (uses URLs).
-* Cookie notice. Only shown to visitors. Allows cookie acceptance for an extended period..
+* Cookie notice. Only shown to visitors.
 * Use SMTP mail.
 * Use system cron.
 * Date and time helper functions.
