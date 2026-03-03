@@ -6,7 +6,7 @@ WordPress plugin to provide functionality for the pfeiffer cookbook website.
 ## Description
 This plugin supports the GP-Cookbook theme without being dependent upon it.
 
-Integrates with WP Recipe Maker to deliver recipe-related functionality.
+Integrate with WP Recipe Maker to deliver recipe-related functionality.
 
 ### Features
 * Chapter taxonomy to organise recipes for printed cookbook.
@@ -21,9 +21,11 @@ Integrates with WP Recipe Maker to deliver recipe-related functionality.
 
 ## Upgrades
 Some upgrades may require changes to the contents of the database.
-There is a file in the plugin root folder which will handle the required changes.
+If an upgrade is needed there is a file in the plugin root folder which will handle the required changes.
 You are advised to create a backup before running the script.
-The script will abort if used on a production site.
+The script will only allow itself to be run once.
+
+The script should be run on a staging site. The script will abort if used on a production site.
 
 Go to the plugin root folder and run the script from the command line, using the command:
 
