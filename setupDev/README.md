@@ -16,10 +16,10 @@ On a clean site it only sets the development site parameters.
 ### Features
 * Can only be run once for a site.
 * If needed, it creates a devmaster user as administrator.
-* Moves any webmaster content to devmaster.
-* Removes any subscribers, keeping only those identified as allowed.
-* Updates settings in wp_options.
-* Imports pNet dev settings.
+* Move any webmaster content to devmaster.
+* Remove any subscribers, keeping only those identified as allowed.
+* Update settings in wp_options.
+* Import pNet dev settings.
 * All setup is done by the plugin activation function.
 * Plugin deactivates itself on completion.
 
