@@ -13,11 +13,11 @@ Provide User/Member/Subscriber login capabilities.
   - Users with subscriber privileges are called "subscribers".
   - There is no special handling of the contributor class.
 
-Uses standard WordPress login functionality.
-User interface uses Google Material Design paradigm.
+Use standard WordPress login functionality.
+
+Use Google Material Design paradigm for user interface.
 
 ### Features
-
 * Store user last and previous logins.
 * Redirect to member page for users on successful login. Administrator goes to admin dashboard.
 * Redirect to login page if a vistor attempts to access private content.
