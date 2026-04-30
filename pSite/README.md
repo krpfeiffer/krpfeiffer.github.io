@@ -7,7 +7,7 @@ WordPress plugin to provide functionality for the pfeifferNet website.
 This plugin supports the GP-pfeifferNet theme without being dependent upon it.
 
 ### Features
-* Post series functionality. Allows associated posts to be grouped in a time-based set.
+* Post series functionality. Allows associated posts to be grouped into set.
 * Self service member functionality.
 	- A member is a direct family member. A page with their name is created as their web presence.
 	- Maintain contact details.
