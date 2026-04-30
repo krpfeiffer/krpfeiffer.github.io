@@ -16,6 +16,7 @@ Integrate with WP Recipe Maker to deliver recipe-related functionality.
 	- Print a table of contents.
 	- Print post content, including recipe, for a chapter.
 	- Print post content, including recipe, within a date range.
+	- Print an editor version of the post content, including the WPRM content.
 * WP Recipe Maker taxonomy enablement and extension.
 * Custom RSS feeds for automatic social media posting using IFTTT.
 
