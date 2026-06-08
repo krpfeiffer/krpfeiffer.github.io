@@ -1,9 +1,11 @@
 ![project logo](./assets/icon-128x128.png)
 
 # GP-pfeifferNet
-Theme for the pfeiffer family website.
+
+The Theme for the pfeiffer family website.
 
 ## Description
+
 This is a GeneratePress child theme.
 
 The user interface is based on the Google Material Design (V2) paradigm.
@@ -25,5 +27,9 @@ Dark mode is essentially a reverse of the light mode background and foreground c
 * GenerateBlocks plugin
 * GenerateBlocks Pro plugin
 * [F4 Media Taxonomies](https://github.com/faktorvier/f4-media-taxonomies)
-* [pSite plugin](https://github.com/krpfeiffer/pSite)
 * [pGallery plugin](https://github.com/krpfeiffer/pGallery)
+* [pSite plugin](https://github.com/krpfeiffer/pSite)
+* [pNet plugin](https://github.com/krpfeiffer/pNet)
+
+## Related
+* [site settings](https://github.com/krpfeiffer/settingsWebsite)
