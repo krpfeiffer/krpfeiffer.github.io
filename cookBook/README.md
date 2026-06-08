@@ -2,7 +2,7 @@
 
 # GP-cookbook
 
-Theme for the pfeiffer family cookbook site.
+The theme for the pfeiffer family cookbook site.
 
 ## Description
 
@@ -31,4 +31,7 @@ Dark mode is essentially a reverse of the light mode background and foreground c
 * WP Recipe Maker plugin
 * WP Recipe Maker premium plugin (Pro Bundle)
 * [pfic plugin](https://github.com/krpfeiffer/pfic)
+* [pNet plugin](https://github.com/krpfeiffer/pNet)
+
+## Related
 * [site settings](https://github.com/krpfeiffer/settingsCookbook)
