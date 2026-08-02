@@ -1,11 +1,14 @@
 # krpfeiffer.github.io
+
 Plugin and theme home pages.
 
 ## Current release readme files
-These are the current release README.md files.
-The files are updated when a theme or plugin pushes the README.md file to the 'main' branch of their repository. This update is handled by a GitHub action in each of the relevant repositories.
 
-The themes and plugins point to these as their home page.
+These are the current release README.md files.
+The files are updated when a repository pushes the README.md file to the 'main' branch of their repository.
+This update is handled by a GitHub action in each of the relevant repositories.
+
+Our Wordpress themes and plugins point to these as their home page.
 This is  specified as either 'Theme URI' or 'Plugin URI' in the relevant theme style.css or the main plugin file.
 
 ### Themes
@@ -29,3 +32,11 @@ This is  specified as either 'Theme URI' or 'Plugin URI' in the relevant theme s
 [family site plugin](./pSite/README.md)
 
 [setup development site plugin](./setupDev/README.md)
+
+### Scripts
+
+[ubuntu server](./ubuntu-server/README.md)
+
+[ubuntu client](./ubuntu-client/README.md)
+
+[ubuntu developer](./ubuntu-developer/README.md)
