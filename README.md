@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./assets/icon.svg" width="256" alt="project logo">
+</div>
+
 # krpfeiffer.github.io
 
 Plugin and theme home pages.
@@ -34,6 +38,8 @@ This is  specified as either 'Theme URI' or 'Plugin URI' in the relevant theme s
 [setup development site plugin](./setupDev/README.md)
 
 ### Scripts
+
+[ubuntu common](./ubuntu-common/README.md)
 
 [ubuntu server](./ubuntu-server/README.md)
 
