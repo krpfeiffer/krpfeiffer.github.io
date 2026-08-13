@@ -4,17 +4,18 @@
 
 # ubuntu common
 
-Scripts and configuration data for all ubuntu linux machines.
+Base scripts and configuration data for all ubuntu linux machines.
 
 ## Description
 
-Settings and scripts to configure a ubuntu server.
+This repository is the basis of all our linux machines.
+The configuration settings and scripts define the core functionality all machines use.
 
-This repository is to be added to existing configuration files for the target machine.
+Add ubuntu-client ***OR*** ubuntu-server config to complete machine configuration.
 
 ### Features
 
-* Consistent with host git push-to-deploy.
+* git hooks to provide push-to-deploy.
 * apt package management.
 * iptables firewall settings.
 * logwatch log monitoring.
@@ -24,7 +25,6 @@ This repository is to be added to existing configuration files for the target ma
 * Common mail aliases.
 * crontab configuration.
 * hostname - this will need to be changed on every machine.
-* git hooks.
 * The standard bash library.
 * The required kernel modules.
 * The scripts to deploy the settings.
@@ -50,6 +50,7 @@ git clone {alias}:/srv/git/config.git {host name}.config
 ```
 
 * Copy the relevant files into this host configuration repository. Overwrite if required.
+* Do ***not*** overwrite /etc/hostname.
 * Carefully remove any artefacts. These will be deleted or renamed files.
 * Commit and push changes.
 * Changes on the "main" branch will trigger an automatic deployment to /usr/local/src/config.d
