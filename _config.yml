@@ -1,0 +1,6 @@
+# Configuration file for Jekyll slate theme
+title: pfeifferNet
+description: Production release documentation.
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-slate
